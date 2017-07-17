@@ -1,0 +1,19 @@
+{
+  "name": "jamsicle",
+  "version": "0.0.1",
+  "description": "Web scraper for itch.io, specifically gmtk-jam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aaronsky/jamsicle.git"
+  },
+  "author": "Aaron Sky <aaronsky@skyaaron.com> (http://skyaaron.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaronsky/jamsicle/issues"
+  },
+  "homepage": "https://github.com/aaronsky/jamsicle#readme"
+}
